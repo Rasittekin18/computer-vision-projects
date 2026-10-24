@@ -1,0 +1,5 @@
+-main.py dosyası şişelerin tespitini içeren kodlardan oluşmaktadır.
+-requirements.txt dosyası içinde kodun çalışması için gerekli olan kütüphaneler yer almaktadır.
+-Kodun çalışma videosu ayrıca kaydedilmiş olup zip dosyasına eklenmiştirç Kütüphaneler yüklenmeden kodun nasıl çalıştığı video üzerinden görülebilir.
+- Kodun çalışma anına ait görseller de zip dosyası içinde bulunmaktadır.
+-Şişeboyut.xlsx dosyası içinde şişelerin gerçek boyutlarının hesaplanabilmesi için pixel ile mm arasında dönüşüm yapılmıştır.
